@@ -9,3 +9,5 @@ Data Exploration for Housing Market in San Diego, California. Resources explored
 - https://www.zillow.com/research/data/
 - https://medium.com/the-era-of-apis/how-to-use-the-zillow-api-with-python-to-get-real-estate-insights-f37f72041713
 - https://www.realtor.com/research/data/
+- https://rapidapi.com/dimashirokov/api/Zillow
+- https://rapidapi.com/apidojo/api/realtor
